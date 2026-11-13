@@ -1,0 +1,5 @@
+Planning meeting
+The workshop is for people new to the command line.
+TODO: test every command in Bash on supported systems.
+Participants will search notes and save a small report.
+TODO: add a hint for filenames containing spaces.

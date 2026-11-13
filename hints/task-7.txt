@@ -1,0 +1,4 @@
+mkdir practice
+cp starter/summary.txt practice/summary.txt
+grep -n TODO practice/summary.txt > practice/report.txt
+cat practice/report.txt

@@ -1,0 +1,1 @@
+Use cd data to enter the folder, ls to list it, and cd .. to return.

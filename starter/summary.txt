@@ -1,0 +1,4 @@
+Starter summary
+This is a copyable input file.
+TODO: write one useful observation here.
+No destructive commands are needed for this exercise.

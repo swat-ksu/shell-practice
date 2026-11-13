@@ -1,0 +1,4 @@
+Workshop ideas
+Use a short command to answer one clear question.
+TODO: prepare a few predictable sample files.
+Keep the first activity under five minutes.

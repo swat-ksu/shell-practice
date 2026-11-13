@@ -1,0 +1,4 @@
+Practice project
+Use pwd and ls to get oriented.
+TODO: check that the output is easy to read from the back of the room.
+The notes are plain text and safe to copy.
